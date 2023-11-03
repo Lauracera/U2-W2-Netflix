@@ -1,0 +1,40 @@
+.fs-nx {
+    font-size: 15px;
+}
+
+.mr-nx {
+    margin-right: 22px;
+}
+
+.bg-nx {
+background-color: #141414;
+}
+
+a{
+    text-decoration: none;
+}
+
+nav a :hover{
+    color: white;
+}
+
+.textIcons{
+    color: rgb(182, 180, 180);
+    
+    
+}
+
+ul{
+    list-style: none;
+}
+
+.fs-ft{
+   font-size: 13px; 
+}
+.bigMb{
+margin-bottom: 100px;
+}
+
+.btn-nx{
+border-color:  rgb(182, 180, 180);
+}
