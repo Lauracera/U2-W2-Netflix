@@ -24,6 +24,10 @@ nav a :hover{
     
 }
 
+.bgIcons{
+    background-color: rgb(182, 180, 180);
+}
+
 ul{
     list-style: none;
 }
